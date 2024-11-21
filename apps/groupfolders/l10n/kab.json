@@ -1,0 +1,11 @@
+{ "translations": {
+    "Deny" : "Agwi",
+    "Allow" : "Sireg",
+    "Unset" : "Non défini",
+    "Create" : "Snulfu-d",
+    "Delete" : "Kkes",
+    "Share" : "Bḍu",
+    "Group" : "Agraw",
+    "User" : "Aseqdac"
+},"pluralForm" :"nplurals=2; plural=(n != 1);"
+}

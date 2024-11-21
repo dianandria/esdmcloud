@@ -1,0 +1,15 @@
+{ "translations": {
+    "Deny" : "Negar",
+    "Allow" : "Permitir",
+    "Read" : "Lleer",
+    "Create" : "Crear",
+    "Delete" : "Desaniciar",
+    "Share" : "Compartir",
+    "You" : "Tu",
+    "Group" : "Grupu",
+    "Add group" : "Amestar un grupu",
+    "Folder name" : "Nome de la carpeta",
+    "Quota" : "Cuota",
+    "User" : "Usuariu"
+},"pluralForm" :"nplurals=2; plural=(n != 1);"
+}
